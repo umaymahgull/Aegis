@@ -18,11 +18,9 @@ Aegis is a small web based tool I built for my Advanced internship at THE ARZENS
 Python, Flask, Requests, HTML and CSS
 
 ## How to run
-```
-pip install -r requirements.txt
-python app.py
-```
-Then open http://127.0.0.1:5000 in your browser.
+1. Install the libraries: `pip install -r requirements.txt`
+2. Start the app: `python app.py`
+3. Open http://127.0.0.1:5000 in your browser
 
 ## Ethical use
 Only test websites that you own or have permission to test. Aegis only sends normal read only requests and does not exploit anything.
